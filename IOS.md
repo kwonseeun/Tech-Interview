@@ -6,5 +6,3 @@
 ### Memory Management
 ### assign vs weak
 ### Frame vs Bounds
-### 기타 
-
